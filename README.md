@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learnify – Educational Platform UI/UX Project
 
 ## Project Description
